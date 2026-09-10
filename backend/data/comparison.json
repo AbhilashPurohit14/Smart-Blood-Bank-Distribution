@@ -1,0 +1,19 @@
+{
+  "episodes": 5,
+  "metrics": {
+    "RL Policy": {
+      "wastage_pct": 38.61,
+      "shortage_pct": 90.32,
+      "fill_rate": 9.68,
+      "average_total_cost": 4307.37,
+      "average_holding_cost": 17.69
+    },
+    "Baseline": {
+      "wastage_pct": 80.46,
+      "shortage_pct": 0.0,
+      "fill_rate": 100.0,
+      "average_total_cost": 5878.24,
+      "average_holding_cost": 258.05
+    }
+  }
+}

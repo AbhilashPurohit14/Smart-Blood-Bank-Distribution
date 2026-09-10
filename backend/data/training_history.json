@@ -1,0 +1,911 @@
+{
+  "history": [
+    {
+      "step": 1,
+      "reward": -5236.84,
+      "wastage": 78.1,
+      "shortage": 0.0
+    },
+    {
+      "step": 35,
+      "reward": -3365.08,
+      "wastage": 63.75,
+      "shortage": 39.66
+    },
+    {
+      "step": 69,
+      "reward": -5946.01,
+      "wastage": 71.76,
+      "shortage": 56.76
+    },
+    {
+      "step": 103,
+      "reward": -6663.83,
+      "wastage": 74.92,
+      "shortage": 58.67
+    },
+    {
+      "step": 137,
+      "reward": -4632.71,
+      "wastage": 57.23,
+      "shortage": 69.01
+    },
+    {
+      "step": 171,
+      "reward": -6499.47,
+      "wastage": 73.27,
+      "shortage": 50.62
+    },
+    {
+      "step": 205,
+      "reward": -9046.76,
+      "wastage": 81.86,
+      "shortage": 53.85
+    },
+    {
+      "step": 239,
+      "reward": -4980.82,
+      "wastage": 71.92,
+      "shortage": 32.88
+    },
+    {
+      "step": 273,
+      "reward": -12683.43,
+      "wastage": 90.44,
+      "shortage": 5.71
+    },
+    {
+      "step": 307,
+      "reward": -4455.29,
+      "wastage": 58.33,
+      "shortage": 60.0
+    },
+    {
+      "step": 341,
+      "reward": -3149.71,
+      "wastage": 56.55,
+      "shortage": 38.1
+    },
+    {
+      "step": 375,
+      "reward": -7574.23,
+      "wastage": 78.32,
+      "shortage": 23.66
+    },
+    {
+      "step": 409,
+      "reward": -5506.08,
+      "wastage": 75.65,
+      "shortage": 40.91
+    },
+    {
+      "step": 443,
+      "reward": -5540.88,
+      "wastage": 70.49,
+      "shortage": 51.39
+    },
+    {
+      "step": 477,
+      "reward": -5975.76,
+      "wastage": 75.79,
+      "shortage": 44.93
+    },
+    {
+      "step": 511,
+      "reward": -6534.04,
+      "wastage": 81.04,
+      "shortage": 0.0
+    },
+    {
+      "step": 545,
+      "reward": -7147.87,
+      "wastage": 69.43,
+      "shortage": 80.25
+    },
+    {
+      "step": 579,
+      "reward": -4458.47,
+      "wastage": 66.11,
+      "shortage": 63.93
+    },
+    {
+      "step": 613,
+      "reward": -6234.37,
+      "wastage": 80.4,
+      "shortage": 47.46
+    },
+    {
+      "step": 647,
+      "reward": -6222.14,
+      "wastage": 74.39,
+      "shortage": 50.0
+    },
+    {
+      "step": 681,
+      "reward": -4117.98,
+      "wastage": 38.24,
+      "shortage": 95.24
+    },
+    {
+      "step": 715,
+      "reward": -3809.93,
+      "wastage": 57.59,
+      "shortage": 46.27
+    },
+    {
+      "step": 749,
+      "reward": -4433.09,
+      "wastage": 60.32,
+      "shortage": 52.0
+    },
+    {
+      "step": 783,
+      "reward": -9040.75,
+      "wastage": 85.79,
+      "shortage": 6.58
+    },
+    {
+      "step": 817,
+      "reward": -9296.05,
+      "wastage": 82.09,
+      "shortage": 59.74
+    },
+    {
+      "step": 851,
+      "reward": -6647.71,
+      "wastage": 78.75,
+      "shortage": 68.85
+    },
+    {
+      "step": 885,
+      "reward": -3360.2,
+      "wastage": 16.3,
+      "shortage": 63.64
+    },
+    {
+      "step": 919,
+      "reward": -5302.56,
+      "wastage": 72.13,
+      "shortage": 52.94
+    },
+    {
+      "step": 953,
+      "reward": -6723.17,
+      "wastage": 71.6,
+      "shortage": 79.45
+    },
+    {
+      "step": 987,
+      "reward": -6443.87,
+      "wastage": 70.88,
+      "shortage": 67.11
+    },
+    {
+      "step": 1021,
+      "reward": -5174.76,
+      "wastage": 75.17,
+      "shortage": 0.0
+    },
+    {
+      "step": 1055,
+      "reward": -5043.52,
+      "wastage": 71.15,
+      "shortage": 32.0
+    },
+    {
+      "step": 1089,
+      "reward": -5538.01,
+      "wastage": 73.25,
+      "shortage": 56.92
+    },
+    {
+      "step": 1123,
+      "reward": -5411.22,
+      "wastage": 75.92,
+      "shortage": 55.93
+    },
+    {
+      "step": 1157,
+      "reward": -7576.75,
+      "wastage": 80.99,
+      "shortage": 50.72
+    },
+    {
+      "step": 1191,
+      "reward": -5843.64,
+      "wastage": 80.41,
+      "shortage": 32.76
+    },
+    {
+      "step": 1225,
+      "reward": -4528.65,
+      "wastage": 58.12,
+      "shortage": 51.25
+    },
+    {
+      "step": 1259,
+      "reward": -5296.24,
+      "wastage": 64.26,
+      "shortage": 37.23
+    },
+    {
+      "step": 1293,
+      "reward": -12695.51,
+      "wastage": 88.42,
+      "shortage": 5.75
+    },
+    {
+      "step": 1327,
+      "reward": -3795.94,
+      "wastage": 43.85,
+      "shortage": 63.01
+    },
+    {
+      "step": 1361,
+      "reward": -6887.17,
+      "wastage": 69.01,
+      "shortage": 67.05
+    },
+    {
+      "step": 1395,
+      "reward": -3859.05,
+      "wastage": 33.33,
+      "shortage": 77.78
+    },
+    {
+      "step": 1429,
+      "reward": -5359.71,
+      "wastage": 72.31,
+      "shortage": 38.89
+    },
+    {
+      "step": 1463,
+      "reward": -5104.37,
+      "wastage": 73.98,
+      "shortage": 40.62
+    },
+    {
+      "step": 1497,
+      "reward": -5394.06,
+      "wastage": 66.37,
+      "shortage": 60.0
+    },
+    {
+      "step": 1531,
+      "reward": -5226.91,
+      "wastage": 75.86,
+      "shortage": 0.0
+    },
+    {
+      "step": 1565,
+      "reward": -6786.11,
+      "wastage": 79.81,
+      "shortage": 53.85
+    },
+    {
+      "step": 1599,
+      "reward": -2646.77,
+      "wastage": 50.4,
+      "shortage": 37.1
+    },
+    {
+      "step": 1633,
+      "reward": -3382.95,
+      "wastage": 64.57,
+      "shortage": 30.65
+    },
+    {
+      "step": 1667,
+      "reward": -4659.87,
+      "wastage": 49.21,
+      "shortage": 96.88
+    },
+    {
+      "step": 1701,
+      "reward": -5457.86,
+      "wastage": 63.79,
+      "shortage": 98.41
+    },
+    {
+      "step": 1735,
+      "reward": -4604.58,
+      "wastage": 60.41,
+      "shortage": 48.72
+    },
+    {
+      "step": 1769,
+      "reward": -5278.84,
+      "wastage": 59.19,
+      "shortage": 49.45
+    },
+    {
+      "step": 1803,
+      "reward": -10019.02,
+      "wastage": 88.61,
+      "shortage": 0.0
+    },
+    {
+      "step": 1837,
+      "reward": -5131.69,
+      "wastage": 69.2,
+      "shortage": 53.62
+    },
+    {
+      "step": 1871,
+      "reward": -4505.53,
+      "wastage": 65.17,
+      "shortage": 45.71
+    },
+    {
+      "step": 1905,
+      "reward": -4605.9,
+      "wastage": 57.65,
+      "shortage": 54.22
+    },
+    {
+      "step": 1939,
+      "reward": -5842.94,
+      "wastage": 68.88,
+      "shortage": 61.33
+    },
+    {
+      "step": 1973,
+      "reward": -7163.55,
+      "wastage": 80.0,
+      "shortage": 48.53
+    },
+    {
+      "step": 2007,
+      "reward": -4659.71,
+      "wastage": 66.32,
+      "shortage": 58.46
+    },
+    {
+      "step": 2041,
+      "reward": -5328.91,
+      "wastage": 76.53,
+      "shortage": 0.0
+    },
+    {
+      "step": 2075,
+      "reward": -5215.58,
+      "wastage": 71.29,
+      "shortage": 68.33
+    },
+    {
+      "step": 2109,
+      "reward": -5280.24,
+      "wastage": 71.36,
+      "shortage": 67.21
+    },
+    {
+      "step": 2143,
+      "reward": -6965.64,
+      "wastage": 77.99,
+      "shortage": 58.57
+    },
+    {
+      "step": 2177,
+      "reward": -6561.26,
+      "wastage": 78.0,
+      "shortage": 60.61
+    },
+    {
+      "step": 2211,
+      "reward": -3478.53,
+      "wastage": 42.75,
+      "shortage": 49.33
+    },
+    {
+      "step": 2245,
+      "reward": -3729.61,
+      "wastage": 42.96,
+      "shortage": 59.74
+    },
+    {
+      "step": 2279,
+      "reward": -5453.92,
+      "wastage": 56.33,
+      "shortage": 94.2
+    },
+    {
+      "step": 2313,
+      "reward": -10381.09,
+      "wastage": 91.01,
+      "shortage": 3.7
+    },
+    {
+      "step": 2347,
+      "reward": -4418.2,
+      "wastage": 62.69,
+      "shortage": 46.67
+    },
+    {
+      "step": 2381,
+      "reward": -4365.58,
+      "wastage": 35.2,
+      "shortage": 71.6
+    },
+    {
+      "step": 2415,
+      "reward": -4592.25,
+      "wastage": 62.94,
+      "shortage": 66.67
+    },
+    {
+      "step": 2449,
+      "reward": -6898.66,
+      "wastage": 77.3,
+      "shortage": 62.32
+    },
+    {
+      "step": 2483,
+      "reward": -5248.95,
+      "wastage": 64.32,
+      "shortage": 71.83
+    },
+    {
+      "step": 2517,
+      "reward": -3453.12,
+      "wastage": 56.02,
+      "shortage": 34.25
+    },
+    {
+      "step": 2551,
+      "reward": -5567.05,
+      "wastage": 78.59,
+      "shortage": 0.0
+    },
+    {
+      "step": 2585,
+      "reward": -5356.55,
+      "wastage": 79.79,
+      "shortage": 27.59
+    },
+    {
+      "step": 2619,
+      "reward": -4658.87,
+      "wastage": 71.43,
+      "shortage": 36.36
+    },
+    {
+      "step": 2653,
+      "reward": -3444.57,
+      "wastage": 53.85,
+      "shortage": 51.67
+    },
+    {
+      "step": 2687,
+      "reward": -8447.32,
+      "wastage": 82.82,
+      "shortage": 48.61
+    },
+    {
+      "step": 2721,
+      "reward": -6332.1,
+      "wastage": 75.99,
+      "shortage": 55.22
+    },
+    {
+      "step": 2755,
+      "reward": -4447.7,
+      "wastage": 68.42,
+      "shortage": 45.45
+    },
+    {
+      "step": 2789,
+      "reward": -5562.24,
+      "wastage": 72.48,
+      "shortage": 53.52
+    },
+    {
+      "step": 2823,
+      "reward": -13060.75,
+      "wastage": 90.19,
+      "shortage": 0.0
+    },
+    {
+      "step": 2857,
+      "reward": -7973.38,
+      "wastage": 79.5,
+      "shortage": 86.15
+    },
+    {
+      "step": 2891,
+      "reward": -4320.77,
+      "wastage": 66.06,
+      "shortage": 25.33
+    },
+    {
+      "step": 2925,
+      "reward": -6417.66,
+      "wastage": 73.76,
+      "shortage": 71.01
+    },
+    {
+      "step": 2959,
+      "reward": -2850.52,
+      "wastage": 49.62,
+      "shortage": 35.82
+    },
+    {
+      "step": 2993,
+      "reward": -4591.79,
+      "wastage": 62.69,
+      "shortage": 51.39
+    },
+    {
+      "step": 3027,
+      "reward": -5511.59,
+      "wastage": 56.14,
+      "shortage": 82.67
+    },
+    {
+      "step": 3061,
+      "reward": -5427.21,
+      "wastage": 79.2,
+      "shortage": 0.0
+    },
+    {
+      "step": 3095,
+      "reward": -5336.2,
+      "wastage": 77.51,
+      "shortage": 24.62
+    },
+    {
+      "step": 3129,
+      "reward": -5699.47,
+      "wastage": 48.28,
+      "shortage": 80.0
+    },
+    {
+      "step": 3163,
+      "reward": -6101.11,
+      "wastage": 71.17,
+      "shortage": 44.44
+    },
+    {
+      "step": 3197,
+      "reward": -5459.38,
+      "wastage": 77.44,
+      "shortage": 13.51
+    },
+    {
+      "step": 3231,
+      "reward": -4646.97,
+      "wastage": 68.56,
+      "shortage": 36.11
+    },
+    {
+      "step": 3265,
+      "reward": -6757.92,
+      "wastage": 84.18,
+      "shortage": 45.28
+    },
+    {
+      "step": 3299,
+      "reward": -7128.55,
+      "wastage": 65.99,
+      "shortage": 88.1
+    },
+    {
+      "step": 3333,
+      "reward": -11786.97,
+      "wastage": 87.55,
+      "shortage": 5.68
+    },
+    {
+      "step": 3367,
+      "reward": -5996.42,
+      "wastage": 72.54,
+      "shortage": 64.18
+    },
+    {
+      "step": 3401,
+      "reward": -5669.43,
+      "wastage": 79.13,
+      "shortage": 19.4
+    },
+    {
+      "step": 3435,
+      "reward": -3335.08,
+      "wastage": 45.67,
+      "shortage": 56.52
+    },
+    {
+      "step": 3469,
+      "reward": -6015.24,
+      "wastage": 56.25,
+      "shortage": 65.31
+    },
+    {
+      "step": 3503,
+      "reward": -3648.2,
+      "wastage": 52.71,
+      "shortage": 67.21
+    },
+    {
+      "step": 3537,
+      "reward": -6418.75,
+      "wastage": 73.8,
+      "shortage": 61.97
+    },
+    {
+      "step": 3571,
+      "reward": -6118.39,
+      "wastage": 79.83,
+      "shortage": 0.0
+    },
+    {
+      "step": 3605,
+      "reward": -5224.75,
+      "wastage": 70.89,
+      "shortage": 53.62
+    },
+    {
+      "step": 3639,
+      "reward": -5072.31,
+      "wastage": 56.21,
+      "shortage": 74.32
+    },
+    {
+      "step": 3673,
+      "reward": -6082.3,
+      "wastage": 72.28,
+      "shortage": 59.46
+    },
+    {
+      "step": 3707,
+      "reward": -6257.47,
+      "wastage": 70.26,
+      "shortage": 58.75
+    },
+    {
+      "step": 3741,
+      "reward": -5969.6,
+      "wastage": 64.37,
+      "shortage": 59.09
+    },
+    {
+      "step": 3775,
+      "reward": -5582.54,
+      "wastage": 63.76,
+      "shortage": 56.63
+    },
+    {
+      "step": 3809,
+      "reward": -6408.08,
+      "wastage": 80.39,
+      "shortage": 45.9
+    },
+    {
+      "step": 3843,
+      "reward": -11775.19,
+      "wastage": 91.57,
+      "shortage": 0.0
+    },
+    {
+      "step": 3877,
+      "reward": -5051.26,
+      "wastage": 68.13,
+      "shortage": 37.5
+    },
+    {
+      "step": 3911,
+      "reward": -5349.18,
+      "wastage": 63.64,
+      "shortage": 42.39
+    },
+    {
+      "step": 3945,
+      "reward": -6048.61,
+      "wastage": 61.76,
+      "shortage": 61.54
+    },
+    {
+      "step": 3979,
+      "reward": -5188.43,
+      "wastage": 61.62,
+      "shortage": 68.42
+    },
+    {
+      "step": 4013,
+      "reward": -6352.61,
+      "wastage": 76.62,
+      "shortage": 35.53
+    },
+    {
+      "step": 4047,
+      "reward": -5831.4,
+      "wastage": 65.95,
+      "shortage": 60.76
+    },
+    {
+      "step": 4081,
+      "reward": -5527.5,
+      "wastage": 80.78,
+      "shortage": 0.0
+    },
+    {
+      "step": 4115,
+      "reward": -4705.19,
+      "wastage": 69.41,
+      "shortage": 47.76
+    },
+    {
+      "step": 4149,
+      "reward": -6190.32,
+      "wastage": 74.85,
+      "shortage": 31.33
+    },
+    {
+      "step": 4183,
+      "reward": -5146.85,
+      "wastage": 67.76,
+      "shortage": 79.66
+    },
+    {
+      "step": 4217,
+      "reward": -6641.16,
+      "wastage": 74.33,
+      "shortage": 48.05
+    },
+    {
+      "step": 4251,
+      "reward": -8178.98,
+      "wastage": 84.67,
+      "shortage": 32.84
+    },
+    {
+      "step": 4285,
+      "reward": -5680.82,
+      "wastage": 70.68,
+      "shortage": 43.59
+    },
+    {
+      "step": 4319,
+      "reward": -5091.61,
+      "wastage": 60.55,
+      "shortage": 52.33
+    },
+    {
+      "step": 4353,
+      "reward": -12631.53,
+      "wastage": 89.2,
+      "shortage": 6.17
+    },
+    {
+      "step": 4387,
+      "reward": -4326.58,
+      "wastage": 42.37,
+      "shortage": 85.29
+    },
+    {
+      "step": 4421,
+      "reward": -5726.18,
+      "wastage": 67.54,
+      "shortage": 42.53
+    },
+    {
+      "step": 4455,
+      "reward": -5669.17,
+      "wastage": 69.2,
+      "shortage": 58.9
+    },
+    {
+      "step": 4489,
+      "reward": -4821.28,
+      "wastage": 65.8,
+      "shortage": 37.97
+    },
+    {
+      "step": 4523,
+      "reward": -6262.42,
+      "wastage": 74.33,
+      "shortage": 68.66
+    },
+    {
+      "step": 4557,
+      "reward": -5065.94,
+      "wastage": 64.32,
+      "shortage": 63.38
+    },
+    {
+      "step": 4591,
+      "reward": -5628.84,
+      "wastage": 76.4,
+      "shortage": 0.0
+    },
+    {
+      "step": 4625,
+      "reward": -4567.28,
+      "wastage": 68.63,
+      "shortage": 43.75
+    },
+    {
+      "step": 4659,
+      "reward": -5370.98,
+      "wastage": 60.61,
+      "shortage": 67.95
+    },
+    {
+      "step": 4693,
+      "reward": -2953.87,
+      "wastage": 54.0,
+      "shortage": 71.74
+    },
+    {
+      "step": 4727,
+      "reward": -5693.0,
+      "wastage": 65.83,
+      "shortage": 82.35
+    },
+    {
+      "step": 4761,
+      "reward": -7388.98,
+      "wastage": 74.31,
+      "shortage": 77.03
+    },
+    {
+      "step": 4795,
+      "reward": -7694.47,
+      "wastage": 85.6,
+      "shortage": 52.73
+    },
+    {
+      "step": 4829,
+      "reward": -6375.22,
+      "wastage": 72.79,
+      "shortage": 57.14
+    },
+    {
+      "step": 4863,
+      "reward": -11831.0,
+      "wastage": 88.7,
+      "shortage": 2.53
+    },
+    {
+      "step": 4897,
+      "reward": -5132.99,
+      "wastage": 44.44,
+      "shortage": 83.75
+    },
+    {
+      "step": 4931,
+      "reward": -4134.5,
+      "wastage": 47.76,
+      "shortage": 67.14
+    },
+    {
+      "step": 4965,
+      "reward": -4505.62,
+      "wastage": 70.05,
+      "shortage": 41.94
+    },
+    {
+      "step": 4999,
+      "reward": -3599.88,
+      "wastage": 41.48,
+      "shortage": 49.37
+    },
+    {
+      "step": 5033,
+      "reward": -5257.19,
+      "wastage": 68.7,
+      "shortage": 44.16
+    },
+    {
+      "step": 5067,
+      "reward": -5807.34,
+      "wastage": 70.11,
+      "shortage": 46.91
+    },
+    {
+      "step": 5101,
+      "reward": -6877.5,
+      "wastage": 84.37,
+      "shortage": 0.0
+    }
+  ],
+  "timesteps": 5000
+}
